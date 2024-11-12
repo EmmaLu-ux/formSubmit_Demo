@@ -37,3 +37,17 @@ pnpm build
 ```sh
 pnpm lint
 ```
+
+### 启动项目
+
+本项目纯粹前端，数据都是mock出来的，故
+
+```sh
+pnpm install
+```
+
+后走下面的命令即可：
+
+```sh
+pnpm run mock
+```
